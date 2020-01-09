@@ -1,0 +1,22 @@
+body {
+    background-color: lightcyan;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    font-size: 8vw;
+    color: black;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.page-title {
+    max-width: 80vw;
+    margin: 0 auto;
+}
+.leaderboard {
+    background-color: white;
+    margin: 0 auto;
+    width: 50%;
+    height: 600px;
+    border: 1px solid black;
+}
